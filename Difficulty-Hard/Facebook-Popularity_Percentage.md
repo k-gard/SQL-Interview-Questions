@@ -1,4 +1,4 @@
-﻿## Facebook
+## Facebook
 ### Hard
 ![enter image description here](https://drive.google.com/uc?id=1LZW-P6oRNEV2rWTsOWYk4buURCLMPkyr)
 
