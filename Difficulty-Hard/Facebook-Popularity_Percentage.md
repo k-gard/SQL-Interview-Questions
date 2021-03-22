@@ -1,7 +1,6 @@
 ﻿## Facebook
 ### Hard
 ![enter image description here](https://doc-0o-0s-docs.googleusercontent.com/docs/securesc/7aitodldkm0fuvap891ijbakis79h4q7/f22t8f2c6eonms3vhnmhuqnn8tgvpfbv/1616397375000/14652307635308192399/14652307635308192399/1LZW-P6oRNEV2rWTsOWYk4buURCLMPkyr?authuser=0&nonce=645srs0chhggi&user=14652307635308192399&hash=hdig32anni5j6kaqc9ifoopptkghk4jb)
-
 ```sql
 SELECT USER1,
        CAST(totalfriends AS FLOAT)/
