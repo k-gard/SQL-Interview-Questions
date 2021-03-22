@@ -1,7 +1,7 @@
 ﻿## Amazon
 ### Hard
 
-![Higher-cost-orders](https://doc-14-0s-docs.googleusercontent.com/docs/securesc/7aitodldkm0fuvap891ijbakis79h4q7/04f1ga8jg8lmsde9uuf8fig2anqvt3v7/1616396250000/14652307635308192399/14652307635308192399/1GOfOHSdImGXVdN-6eCfuPcXP8OubLU4Z?authuser=0&nonce=ra9i08dsadvcg&user=14652307635308192399&hash=u1uj14qrbe63kltgmonl0p1dbjaa9b5m)
+![Higher-cost-orders](https://drive.google.com/uc?id=1GOfOHSdImGXVdN-6eCfuPcXP8OubLU4Z)
 
 ```sql
 With OrdersCost as  (
