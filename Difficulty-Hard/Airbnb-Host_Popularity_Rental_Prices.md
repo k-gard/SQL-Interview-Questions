@@ -1,7 +1,7 @@
 ﻿## Airbnb
 ### Hard
 
-![enter image description here](https://doc-0k-0s-docs.googleusercontent.com/docs/securesc/7aitodldkm0fuvap891ijbakis79h4q7/098l28ppcnfcdpounmr2nqttj59cbp7p/1616397000000/14652307635308192399/14652307635308192399/1dl0YH96f76nnv3fv4gWJKMWkG9HZ90I8?authuser=0&nonce=h3d3jltuuluhg&user=14652307635308192399&hash=929c6672epil5k2avpajm4qe2i8fuv29)
+![enter image description here](https://drive.google.com/uc?id=1dl0YH96f76nnv3fv4gWJKMWkG9HZ90I8)
 
 ```sql
 with Hosts as (
