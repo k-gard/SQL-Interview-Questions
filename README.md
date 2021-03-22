@@ -5,7 +5,7 @@ answers to SQL interview questions
 ### Microsoft 
 ![Premium vs Freemium](https://drive.google.com/uc?id=1U62og3lE5vsHPx5pCeXlIeNZDqq7auz3)
 
-```
+```sql
 select A.date,non_paying ,paying
 from   (Select date,sum(downloads) non_paying
         from (Select U.user_id,paying_customer
